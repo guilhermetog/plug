@@ -1,5 +1,5 @@
 name: plug
-description: "A plugin to plug callbacks in a easy way"
+description: "A Dart/Flutter package to deal with async communication between 2 instances or methods"
 version: 1.0.0
 homepage:
 
