@@ -1,7 +1,7 @@
 name: plug
 description: "A Dart/Flutter package to deal with async communication between 2 instances or methods"
 version: 1.0.0
-homepage:
+homepage: https://github.com/guilhermetog/plug.git
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
