@@ -48,7 +48,7 @@ class SecondClass{
 void main(){
     FirstClass firstClassInstance = FirstClass();
     SecondClass secondClassInstance = SecondClass();
-    firstClassInstance.onSignal.take(secondClassInstance.handleSignal);
+    firstClassInstance.onData.take(secondClassInstance.handleSignal);
 }
 
 class FirstClass{
