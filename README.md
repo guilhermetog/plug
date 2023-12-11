@@ -73,3 +73,11 @@ class SecondClass{
 
 ##
 <br/><br/><br/>
+
+## Contribute
+If you have some improvement or correction to make, please feel free to open an issue or pull request on the github project. All feedback are very welcome.
+
+
+<a href="https://www.buymeacoffee.com/guilhermetog" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
