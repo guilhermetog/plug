@@ -1,5 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
 import 'package:plug/plug.dart';
+import 'package:test/test.dart';
 
 void main() {
   test('Plug isConnected should be false by default', () {

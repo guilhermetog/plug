@@ -1,26 +1,21 @@
 name: plug
 description: "A Dart/Flutter package to deal with async communication between 2 instances or methods"
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/guilhermetog/plug.git
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
-  flutter: ">=1.17.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.0
+  test: ^1.24.9
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
-flutter:
+#flutter:
 
   # To add assets to your package, add an assets section, like this:
   # assets:
